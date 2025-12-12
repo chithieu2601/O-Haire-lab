@@ -1,0 +1,8 @@
+record_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,recruit_text___1,recruit_text___2,recruit_text___3,r_text1_time,r_text1_content,r_text2_time,r_text2_content,r_text3,r_text_reply___1,r_text_reply___2,r_text_reply___3,r_text_replycopy,r_text_reply_next,r_text_reply_change,r_contactus___1,r_contactus___2,r_contactus___3,r_email_time,r_email_desc,r_email_next,r_text_time,r_text_desc,r_text_next,r_call_time,r_call_desc,r_call_next,r_add1call___1,r_add1call_time,r_add1call_desc,r_add1call_next,r_add2call___1,r_add2call_time,r_add2call_desc,r_add2call_next,r_add3call___1,r_add3call_time,r_add3call_desc,r_add3call_next,additional_communication_complete,recruit_consent_complete___1,recruit_consent_complete___2,moved_to_studyarm,reason_notparticipating,study_id_participant,why_not,recruitment_result_complete
+CJ001_R,enrollment_arm_1,,,1,1,1,,,,,,0,0,0,,,,1,1,1,,,,,,,,,,1,,,,0,,,,0,,,,0,1,1,1,,CJ500,,2
+EB012_test,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,EB012,,2
+"HN test001",enrollment_arm_1,,,1,0,0,"2024-10-22 10:21",00000000,,,,1,0,0,000000000,"Scheduled a recruitment call for 10/2/24 at 1pm EST",000000000,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,2,1,1,1,,00001,,2
+JS001,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,JS001_V,,0
+kvm_test001,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,kvm_test001,,2
+YJ001,enrollment_arm_1,,,1,0,0,"2024-12-02 14:10",,,,,1,0,0,,"Scheduled a recruitment call for 10/2/24 at 1pm EST",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,YJ002,,2
+ZB001_test,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,ZB001_test,,2

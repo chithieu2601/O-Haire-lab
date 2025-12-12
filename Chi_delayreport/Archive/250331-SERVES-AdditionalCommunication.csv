@@ -1,0 +1,656 @@
+record_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,recruit_text___1,recruit_text___2,recruit_text___3,r_text1_time,r_text1_content,r_text2_time,r_text2_content,r_text3,r_text_reply___1,r_text_reply___2,r_text_reply___3,r_text_replycopy,r_text_reply_next,r_text_reply_change,r_contactus___1,r_contactus___2,r_contactus___3,r_email_time,r_email_desc,r_email_next,r_text_time,r_text_desc,r_text_next,r_call_time,r_call_desc,r_call_next,r_add1call___1,r_add1call_time,r_add1call_desc,r_add1call_next,r_add2call___1,r_add2call_time,r_add2call_desc,r_add2call_next,r_add3call___1,r_add3call_time,r_add3call_desc,r_add3call_next,additional_communication_complete,recruit_consent_complete___1,recruit_consent_complete___2,moved_to_studyarm,reason_notparticipating,study_id_participant,why_not,recruitment_result_complete
+CJ001_R,enrollment_arm_1,,,1,1,1,,,,,,0,0,0,,,,1,1,1,,,,,,,,,,1,,,,0,,,,0,,,,0,1,1,1,,CJ500,,2
+CJ01_R0A,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+EB012_test,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,EB012,,2
+"HN test001",enrollment_arm_1,,,1,0,0,"2024-10-22 10:21",00000000,,,,1,0,0,000000000,"Scheduled a recruitment call for 10/2/24 at 1pm EST",000000000,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,2,1,1,1,,00001,,2
+JS001,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,JS001_V,,0
+kvm_test001,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,kvm_test001,,2
+SC03-026,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,8,,"Participant's veteran was not eligible.",0
+SC07-041,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC024,,0
+SC07-050,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC029,,0
+SC11-105,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC11-106,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC061,,0
+SC11-111,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC069,,0
+SC15-140,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC087,,0
+SC15-142,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC15-144,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC089,,0
+SC17B-167,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC116,,0
+SC17B-168,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC104,,0
+SC19-179,enrollment_arm_1,,,1,0,0,"2024-11-20 11:30","Hello Ariana, My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number. Thank you for your time and have a great day!",,,,1,0,0,"I am interested. Please let me know how to proceed. Thank you :)",,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC113,,0
+SC19-180,enrollment_arm_1,,,1,0,0,"2024-11-19 10:18","Hello Qun, My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Yes i would like to join this  study  ","We scheduled a recruitment call for 12/3 at 2:30pm EST",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC127,,0
+SC19-182,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC19-183,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC23-216,enrollment_arm_1,,,1,0,0,"2025-02-17 11:25","Hello Stephanie, my name Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey at each study period. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"I am definitely interested!","Recruitment call on 2/17/2025 at 1:30pm MST",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC141,,0
+SC23-218,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC145,,0
+SC23-219,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC23-220,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC23-221,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC23-222,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC23-223,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC23-224,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SC23-225,enrollment_arm_1,,,1,0,0,"2025-02-17 11:22","Hello Anna, my name is Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey at each study period. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Sounds good  ????  
+My husband let me know that I might get one so I'm ready. Will you be emailing or texting the survey link?","Recruitment call scheduled for 2/17 at 12pm MST",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SC136,,0
+SC24B-233,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SD21A-213,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SD23A-227,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SD151,,0
+SD23A-229,enrollment_arm_1,,,1,0,0,"2025-03-27 16:47","Hello Karin, my name is Jocie and I'm a research coordinator from the University of Arizona. We are working with America's VetDogs on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK01-001,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+SK01-002,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+SK01-003,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,0,0,1,,"Spoke with participant during recruitment call with the Veteran, spouse declined to participate.",0
+SK01-004,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+SK01-005,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,0,1,,SK003,,0
+SK02-013,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK007,,0
+SK02-016,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK010,,0
+SK02-018,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK008,,0
+SK02-019,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,,0
+SK02-021,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+SK03-024,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+SK03-025,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+SK04-027,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+SK04-030,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK017,,0
+SK04-032,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+SK04-033,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,,0
+SK04-035,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+SK05-028,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,4,,,0
+SK06-039,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK025,,0
+SK06-051,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,,0
+SK06-053,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,,0
+SK06-058,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,,0
+SK08-057,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK040,,0
+SK08-063,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK045,,0
+SK08-068,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK038,,0
+SK08-070,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK047,,0
+SK08-071,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK08-073,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK039,,0
+SK08-074,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,,0
+SK08-075,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK055,,0
+SK08-083,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,,0
+SK09-081,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,,0
+SK09-082,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK09-084,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK053,,0
+SK09-085,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK052,,0
+SK09-086,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK10-064,enrollment_arm_1,,,1,0,0,"2024-10-21 15:03","Hello Diamond, My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK10-065,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK10-066,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK10-067,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK10-088,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK064,,0
+SK10-091,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK10-094,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK058,,0
+SK10-095,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK10-096,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK10-099,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK10-103,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK063,,0
+SK10-104,enrollment_arm_1,,,1,1,0,"2025-01-10 11:16","Hello Mark, my name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-01-14 09:42","Hello Mark, my name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,1,0,0,"I would be willing and able to do a survey to help on this.  ","Completed recruitment call on 1/14 at 10:59am. ",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK125,,0
+SK12-097,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK12-098,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK073,,0
+SK12-101,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK12-112,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK12-114,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK12-117,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK12-119,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK12-120,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK12-121,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK068,,0
+SK13-113,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK13-122,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK14-125,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Veteran said their spouse is not interested",0
+SK14-127,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK082,,0
+SK14-129,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK080,,0
+SK14-130,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK14-131,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK14-134,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK14-138,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK16-145,enrollment_arm_1,,,1,0,0,"2024-11-12 09:35","Hello Christopher, My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!
+",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK16-150,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,0,1,,SK093,,0
+SK16-151,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK16-153,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK16-156,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK16-157,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK17-159,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK097,,0
+SK17-165,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK20-184,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK20-186,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK122,,0
+SK20-189,enrollment_arm_1,,,1,0,0,"2024-11-08 15:39","Hello Christine, My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Yes, I would like to participate. ","Send welcome packet via email and schedule a call next week",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK117,,0
+SK20-190,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK20-191,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK20-192,enrollment_arm_1,,,1,0,0,"2025-02-25 10:24","Hello Victoria, my name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey during each of the six study periods. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Yes that sounds great! ","Recruitment call scheduled for Thurs, 2/27, at 2:30pm CST",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK148,,0
+SK20-193,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK20-194,enrollment_arm_1,,,1,0,0,"2024-11-13 16:51","Hello Amy, my name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Hi Josie! I would love to!","Sent welcome packet via email and will schedule recruitment call in the next week",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK121,,0
+SK20-195,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK20-196,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK20-197,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK20-198,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,SK150,,0
+SK20-199,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK20-200,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK21-203,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK21-204,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK22-209,enrollment_arm_1,,,1,0,0,"2025-01-28 17:00","Hello Brittany, my name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited as a spouse to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans AND Spouses involved in a Service Dog program. Your participation will just be one online survey. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,0,1,,SK132,,0
+SK22-210,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+SK22-211,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+Test,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,0,1,,,0
+VC03-026,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC030,,0
+VC03-031,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC026,,0
+VC07-041,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC024,,0
+VC07-042,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC031,,0
+VC07-043,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,4,,,0
+VC07-044,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC027,,0
+VC07-045,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC032,,0
+VC07-046,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VC07-047,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VC07-048,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC028,,0
+VC07-049,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,4,,,0
+VC07-050,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC029,,0
+VC11-105,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC065,,0
+VC11-106,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC061,,0
+VC11-107,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VC11-108,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Participant said they looked over the information we sent and spent a lot of time thinking about it, but they have too much going on right now and cannot dedicate the necessary time. Said they will not be moving forward with participation.",0
+VC11-109,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC067,,0
+VC11-110,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC070,,0
+VC11-111,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC069,,0
+VC15-139,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Participant said he was hesitant about wearing wristband and did not want to be tracked and seemed to be in a bit of a hurry. Expressed that he did not want to participate",0
+VC15-140,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC087,,0
+VC15-141,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC090,,0
+VC15-142,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC092,,0
+VC15-143,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC088,,0
+VC15-144,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC089,,0
+VC17B-166,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC115,,0
+VC17B-167,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC116,,0
+VC17B-168,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC104,,0
+VC17B-169,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC105,,0
+VC19-178,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,8,,"Participant already has a service dog, which makes her ineligible for this study",0
+VC19-179,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC113,,0
+VC19-180,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC127,,0
+VC19-181,enrollment_arm_1,,,1,1,0,"2024-10-21 14:52","Hello Michael,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with Canine Companions on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-10-22 09:20","Hello Michael,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with Canine Companions on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+VC19-182,enrollment_arm_1,,,1,0,0,"2024-10-22 14:10","Hello Xavier,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC118,,0
+VC19-183,enrollment_arm_1,,,1,0,0,"2024-10-18 12:04","Hello Kelvin,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with Canine Companions on the SERVES study! I just tried calling you, but i couldn't hear you. Here is some information about the study.
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Hey Zane sorry I am out of the country until the 26th. But yes I am interested in participating. ","Wait until the 26th to reach back out to them",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC126,,0
+VC20B-202,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC128,,0
+VC23-216,enrollment_arm_1,,,1,0,0,"2025-01-29 16:57","Hello Jon,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,Yes!!,"Recruitment call scheduled for 1/29 at 5:32pm MST",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC141,,0
+VC23-217,enrollment_arm_1,,,1,0,0,"2025-02-03 13:15","Hello Paul, my name is Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study! I saw your email that you are interested in participating in our study. I tried calling you today, but was unable to reach you. Please let me know when would be a good day and time to chat on the phone to discuss the study in a bit more detail. Thank you!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC143,,0
+VC23-218,enrollment_arm_1,,,1,0,0,"2025-01-31 15:33","Hello Richard,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day! ",,,,0,0,0,,,,0,0,1,"2025-01-31 15:45","I'm interested in participating. However, I am currently still on the waitlist.
+ 
+","Scheduled a recruitment call for 2/6 at 6:15pm EST",,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC145,,0
+VC23-219,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC140,,0
+VC23-220,enrollment_arm_1,,,1,0,0,"2025-02-03 13:19","Hello Liz,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC147,,0
+VC23-221,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC142,,0
+VC23-222,enrollment_arm_1,,,1,1,0,"2025-01-29 16:50","Hello Wendy,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-02-11 11:23","Hi Wendy! This is Jocie from the SERVES Study. During our last call, you had expressed some concerns about the estimated class date (June 2025) for possibly getting a service dog (if you happen to get randomized to that group). I'm reaching out to see if you have any additional questions or if you are interested in moving forward with participation. Thank you!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VC23-223,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC138,,0
+VC23-224,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,1,0,0,,,,,,,"2025-01-22 15:09","Participant called and said he received the Welcome Packet by email and is interested in learning more, but also asked if we could send the Welcome Packet by mail. We did not originally send it by mail because we did not have the participant's address. The participant's address was collected and added the the Recruitment Overview form and a Welcome Packet was mailed to the participant on 1/23/2024.",,0,,,,0,,,,0,,,,0,1,1,1,,VC144,,0
+VC23-225,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC136,,0
+VC23-230,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VC24B-233,enrollment_arm_1,,,1,0,0,"2025-03-27 16:29","Hello Steven,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with Canine Companions on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VC25B-231,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,1,"2025-03-01 08:10","Hi there
+
+I just wanted to indicate my willingness to participate in this study.
+
+Steven E. Whirley
+2064 FM 128
+Pecan Gap, TX 75469
+
+(803)873-3917
+
+seewhirley1@yahoo.com
+","JS scheduled a recruitment call with the participant on 3/12 at 9:30am AZ time/11:30am CDT.",,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VC152,,0
+VC25B-232,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VC25B-234,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VC25B-235,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VC25B-236,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VD21A-206,enrollment_arm_1,,,1,0,0,"2025-01-16 09:49","Hello Gary,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with America's VetDogs on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Yes. I'm interested in participating. I do not have my service dog yet, though.","We have scheduled a recruitment call for tomorrow, 1/17/2025, at 4:30pm MST.",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VD131,,0
+VD21A-212,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VD133,,0
+VD21A-213,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VD137,,0
+VD21A-214,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,8,,"Participant already had a service dog and is currently on the waitlist for a successor dog. This makes them not eligible for the study. Participant said he would like to be contacted for future studies.",0
+VD21A-215,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VD134,,0
+VD21A-226,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VD139,,0
+VD23A-224,enrollment_arm_1,,,1,1,0,"2025-03-18 14:12","Hello April,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with America's VetDogs on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-03-20 14:14","Hello April,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with America's VetDogs on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VD23A-227,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VD151,,0
+VD23A-228,enrollment_arm_1,,,1,1,0,"2025-02-28 10:04","Hello Nina,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with America's VetDogs on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-03-04 10:32","Hello Nina,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with America's VetDogs on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,1,0,0,,,,,,,"2025-03-04 10:35","Participant called us back (see Recruitment Call instance #3) and said she wanted to hear more about the study. JS talked to her for a little bit about the study and the participant said they would like to look over the information we sent them and would reach out in a couple of days. ","JS followed up with participant via text on 3/7 to see if participant had any questions or would like to move forward with participating. Participant did not text back. JS sent another follow up text on 3/12 to ask if they had any questions we could help with. Participant has still not texted back (3/14)",0,,,,0,,,,0,,,,0,0,0,,,,,0
+VD23A-229,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VD149,,0
+VK01-001,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,0,0,2,,,0
+VK01-002,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK005,,0
+VK01-003,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK006,,0
+VK01-004,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,0,0,1,,"The participant decided they do not want to participate, they were forwarded the discontinuation survey.",0
+VK01-005,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK003,,0
+VK01-006,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK001,,0
+VK01-007,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK002,,0
+VK01-008,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Participant travels very consistently and was unable to screen with CAPS because of frequent international travel.",0
+VK01-009,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,8,,"Participant is not eligible",0
+VK01-010,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK004,,0
+VK01-011,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,8,,"Participant is not eligible",0
+VK01-012,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,8,,"Participant is not eligible",0
+VK01-XXX,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,,,,,0
+VK02-013,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK007,,0
+VK02-014,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,4,,"Participant called 2/21 and let us know they want to participate but their class was moved to April 2024. They asked for us to keep their contact information for a future study.",0
+VK02-015,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK011,,0
+VK02-016,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK010,,0
+VK02-017,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK018,,0
+VK02-018,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK008,,0
+VK02-019,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK013,,0
+VK02-020,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK012,,0
+VK02-021,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK009,,0
+VK03-022,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK019,,0
+VK03-023,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK015,,0
+VK03-024,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK016,,0
+VK03-025,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,2,,,0
+VK04-027,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK014,,0
+VK04-029,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK036,,0
+VK04-030,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK017,,0
+VK04-032,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK020,,0
+VK04-033,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Individual was not interested in reliving his combat experiences during the CAPS phone call. Declined to participate.",0
+VK04-034,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK023,,0
+VK04-035,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK05-028,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,8,,"Individual already has a service dog and is getting a predecessor dog through K9s.",0
+VK05-036,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK022,,0
+VK05-037,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK021,,0
+VK06-038,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,0,0,1,,"Not interested",0
+VK06-039,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK025,,0
+VK06-051,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK033,,0
+VK06-053,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK037,,0
+VK06-054,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK034,,0
+VK06-055,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK06-058,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK035,,0
+VK08-057,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK040,,0
+VK08-060,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Not interested.",0
+VK08-062,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK08-063,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK045,,0
+VK08-068,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK038,,0
+VK08-069,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK044,,0
+VK08-070,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK047,,0
+VK08-071,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK042,,0
+VK08-072,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK046,,0
+VK08-073,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK039,,0
+VK08-074,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK08-075,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK055,,0
+VK08-076,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK041,,0
+VK08-083,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK043,,0
+VK09-077,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK09-078,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Individual said ""I struggle with doing mundane tasks everyday and I believe I will also struggle with trying to participate in this study, thank you for calling though"".",0
+VK09-079,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK049,,0
+VK09-080,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK051,,0
+VK09-081,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK050,,0
+VK09-082,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK09-084,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK053,,0
+VK09-085,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK052,,0
+VK09-086,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK09-087,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK054,,0
+VK10-040,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK060,,0
+VK10-052,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK10-056,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK048,,0
+VK10-059,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK078,,2
+VK10-064,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK107,,1
+VK10-065,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK109,,0
+VK10-066,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK059,,0
+VK10-067,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK103,,0
+VK10-088,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK064,,0
+VK10-089,enrollment_arm_1,,,0,0,1,,,,,"Hello Keana,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK10-090,enrollment_arm_1,,,0,1,0,,,"2024-10-14 15:20","Hello Shawn,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,1,0,1,"2025-02-15 06:27","I am interested in participating in the study.","JS emailed the participant back and inquired about their class date (to ensure they could still participate). Participant said they were unsure of their new class date (they were reschedule during the mass reschedule), but would reach out to K9FW to find out. JS reached out again via email on 2/28/2025 to follow up.",,,,"2024-10-28 06:38","Participant called back and said they were returning our call. ","Will call participant back on 10/29",0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK10-091,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK062,,0
+VK10-092,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK108,,1
+VK10-093,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK057,,0
+VK10-094,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK058,,0
+VK10-095,enrollment_arm_1,,,1,1,0,"2024-10-14 14:55","Hello Mindy,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-10-15 10:17","Hello Mindy,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK10-096,enrollment_arm_1,,,1,0,0,"2024-10-14 15:00","Hello Alma,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,1,0,"Hi Zane. It is best to contact me via email at alma.moises@gmail.com or via this message platform. Please.let me.know how I can assist. I appreciate the opportunity.","I told them we like to call to answer questions in real time, but can set up a time to call in the future",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK10-099,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK112,,0
+VK10-103,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK063,,0
+VK10-104,enrollment_arm_1,,,1,0,0,"2024-10-14 15:29","Hello Teresa,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Hi, Sorry I missed your call. Yes, I am interested. If you can call me back tomorrow night around the same time, I will be available to talk more.","Scheduled a recruitment call for 10/15 at 5:30 CST (3:30 PST)",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK125,,0
+VK12-097,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK056,,0
+VK12-098,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK073,,0
+VK12-100,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK12-101,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK071,,0
+VK12-102,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK074,,0
+VK12-112,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK12-114,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Declined to participate after voicemail and recruitment text was sent.",0
+VK12-116,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK072,,0
+VK12-117,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK12-118,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK12-119,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK12-120,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK066,,0
+VK12-121,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK068,,0
+VK13-113,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK075,,2
+VK13-115,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK077,,2
+VK13-122,enrollment_arm_1,,,1,1,0,"2024-07-08 10:59","Hello Jennifer,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-07-16 10:05","Hello Jennifer,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK13-123,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK079,,2
+VK13-124,enrollment_arm_1,,,1,1,0,"2024-07-10 10:27","Hello Lauren,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-07-16 10:06","Hello Lauren,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK13-133,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Participant reached out via text and has decided she does not want to participate. Her text said "" As much as I would love to get a service dog in the next 3 months. I want to make sure I get paired with the dog that was meant for me. So I think I'm just going to stay on the waitlist and keep my existing class date."" I asked if she would like to be removed from the recruitment list and she said yes.",0
+VK13-136,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK076,,0
+VK14-125,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK086,,0
+VK14-126,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK083,,0
+VK14-127,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK082,,0
+VK14-128,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Participant called us on 7/16/2024 at 4:06pm and told us that he does not feel comfortable participating in the study and would like to be removed from the recruitment list",0
+VK14-129,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK080,,0
+VK14-130,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK084,,0
+VK14-131,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK085,,0
+VK14-132,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK14-134,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK081,,0
+VK14-135,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK14-137,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK091,,0
+VK14-138,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,8,,"Participant said he is currently scheduled to get his dog at the end of next year and he scheduled it this way because he has a knee surgery coming up and also would be retired by then, so he wouldn't have to take 6 weeks off from work to go pick up the dog. When asked if he wants to be contacted at a later date, he said the soonest he would be available to participate is probably this time next year. I told him that we completely understand and since part of the inclusion criteria is that he would need to be available to get his dog in the next three months, we will not move forward with recruitment at this time. He said to please keep him in mind for future studies.",0
+VK16-145,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK114,,0
+VK16-146,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK096,,0
+VK16-147,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK101,,0
+VK16-148,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK095,,0
+VK16-149,enrollment_arm_1,,,1,1,0,"2024-08-30 12:16","Hello! My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-09-05 13:35","Hello! My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study! I am following up on whether you are interested in participating. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK16-150,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK093,,0
+VK16-151,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK094,,0
+VK16-152,enrollment_arm_1,,,1,1,0,"2024-08-30 12:21","Hello! My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-09-05 13:36","Hello! My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study! I am following up on whether you are interested in participating. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK16-153,enrollment_arm_1,,,1,1,1,"2024-09-05 13:23","Hello Jessica,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-09-09 12:38","Hello! This is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES Study. I just tried calling you. If you are still interested in the study, please let me know a good time to call. Thank you!","Third recruitment text
+10/14/2024 14:48
+Hello Jessica,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",0,1,0,"Hi! So sorry I have a million doctors appointments today and tomorrow. Can I can Monday?","The participant did not answer after we attempted to call them following their response to the first recruitment text. We have not heard from participant since then. We sent a third recruitment text to try and recruit them for cohort 18. ",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK16-154,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK120,,0
+VK16-155,enrollment_arm_1,,,1,0,0,"2024-12-02 14:18","Hello Toni, this is Zane from the University of Arizona SERVES Study! Thank you for your interest in the study. I wanted to update you that due to the holidays we can't schedule you for the study now, but if you are still interested after New Year's we can try to schedule you then. Thank you!",,,,1,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK16-156,enrollment_arm_1,,,1,1,0,"2024-09-05 14:36","Hello Samantha,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-10-14 14:56","Hello Samantha,
+My name is Jocie and I'm a clinical research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,0,0,1,"2024-10-14 14:59","I am ready to get started ","We called them the next day, but participant did not answer. We replied to their email to try to schedule a time to call them.",,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK111,,0
+VK16-157,enrollment_arm_1,,,1,1,0,"2024-10-15 10:46","Hello Hannah,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-10-17 12:31","Hello Hannah,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK17-158,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK102,,0
+VK17-159,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK097,,0
+VK17-160,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK17-161,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK098,,0
+VK17-162,enrollment_arm_1,,,1,1,0,"2024-09-17 09:07","Hello Kyle,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2024-09-19 16:54","Hello Kyle,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK17-163,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK099,,0
+VK17-164,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK17-165,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK18-163,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK18-170,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK18-171,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK106,,0
+VK18-172,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK18-174,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK18-175,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK18-176,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK18-177,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,1,0,0,,,,,,,"2024-10-14 06:52","Participant called and left a voicemail expressing interest in the study and wanting to see if she is eligible to participate.","Participant was called back and successfully recruited.",0,,,,0,,,,0,,,,0,1,1,1,,VK110,,0
+VK20-184,enrollment_arm_1,,,1,0,0,"2024-10-28 15:40","Hello Mark,
+My name is Zane and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK20-185,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK119,,0
+VK20-186,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK122,,0
+VK20-187,enrollment_arm_1,,,1,1,1,"2025-02-12 10:53","Hello Christopher,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-02-18 14:17","Hello Christopher,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","3rd text sent 3/24/25 by kvm:
+
+Hi Christopher,
+My name is Kristy and I'm a research scientist from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",0,0,0,,,,1,0,0,,,,,,,"2025-01-21 15:34","Was unable to answer the call at the time and participant did not leave a voicemail. ","Called them back on 1/22 at 15:45. Participant is interested in participating but needs to be recruited to a later cohort ",0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK20-188,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK124,,0
+VK20-189,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,1,0,0,,,,,,,"2024-10-22 12:51","Participant had just received welcome packet and wants to participate","Recruitment call was completed by JS and participant is currently scheduled for their screening activities with cohort 20",0,,,,0,,,,0,,,,0,1,1,1,,VK117,,0
+VK20-190,enrollment_arm_1,,,1,1,1,"2025-02-12 10:49","Hello Herminio,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-02-18 14:16","Hello Herminio,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","3rd text sent 3/24/25 by kvm:
+
+Hello Herminio,
+My name is Kristy and I'm a research scientist at the University of Arizona. We are working with K9s For Warriors on the SERVES study!
+
+We are excited to invite you to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK20-191,enrollment_arm_1,,,1,1,0,"2025-02-12 10:20","Hello Stephen,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-02-18 14:15","Hello Stephen,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,1,"Participant responded ""stop"" to our recruitment texts on 3/14, therefore they were unsubscribed and the response message from our lab said we would no longer contact them.",,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,0,0,1,,"Participant responded ""STOP"" to study texts ",0
+VK20-192,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK148,,0
+VK20-193,enrollment_arm_1,,,1,1,0,"2025-02-12 10:29","Hello Michael,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-02-18 14:15","Hello Michael,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,1,0,"I would be interested in learning more about the program. 
+
+I am interested I think. I would like to learn more before I commit. 
+
+Yes I did. Let me look at it this weekend and I will email you Monday. (When asked if they had received their welcome packet)","Participant wanted more time to review the welcome packet and said they would email us on 2/24. ","Participant did not email us on 2/24, so JS followed up on 2/25. JS sent another follow-up text on 3/4. Participant has still not replied (today is 3/5).",0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK20-194,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK121,,0
+VK20-195,enrollment_arm_1,,,1,0,0,"2025-02-19 09:47","Hello Chad,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,0,1,,"Participant recently learned that their supervisor at work is not supportive of veterans with disabilities, so they are worried that having a service dog would create a stigma and possibly affect their performance reviews at their job. They said it's an unfortunate situation, but they need to work and can't take the risk at this time. They said they prefer to be removed from the recruitment list at this time, but would still like to receive the welcome packet in an email, just in case. JS also told them that if anything changes and they would like to move forward with participation, to reach out to our team and we are happy to help them get started at that time if we are still recruiting. ",0
+VK20-196,enrollment_arm_1,,,1,1,0,"2025-02-19 09:50","Hello Nicholas,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-03-25 13:28","Hello Nicholas,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK20-197,enrollment_arm_1,,,1,1,0,"2025-02-19 10:04","Hello Nicholas,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-03-25 13:29","Hello Nicholas,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,1,0,0,"Yes I am interested",,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK20-198,enrollment_arm_1,,,1,0,0,"2025-02-19 09:56","Hello Eugen,
+My name is Jocie and I'm a research assistant from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK150,,0
+VK20-199,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,1,0,0,,,,,,,"2024-10-28 09:52","Participant is interested in participating. Received the welcome packet. ","Will be calling participant back in about half an hour",0,,,,0,,,,0,,,,0,1,1,1,,VK123,,0
+VK20-200,enrollment_arm_1,,,1,0,0,"2025-03-24 15:12","Hello Derek,
+My name is Kristy and I'm a research scientist at the University of Arizona. We are working with K9s For Warriors on the SERVES study!
+
+We are excited to invite you to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK20-201,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Participant has two recruitment IDs (VK20-201 and VK22-207). VK22-207 has more details about the contact attempts with this participant. Participant said they are not interested at this time. JS thanked them and let them know they can reach out to us if they would like to participate at a later time or if they have any questions.",0
+VK21-203,enrollment_arm_1,,,1,0,0,"2025-01-08 12:03","Hello, Nariman! My name is Jocie and I'm a clinical research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Participant: Hello
+Study team: Hello! Are you interested in participating in the SERvice dog and Veteran Experiences Study (SERVES)?
+Participant: Yes!  Sorry I got so busy I couldn't call.  I'm on a plane as we speak lol","Recruitment call scheduled for Monday, 1/13, at 10am MST",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK129,,0
+VK21-204,enrollment_arm_1,,,1,0,0,"2025-01-08 12:05","Hello, Brittany! My name is Jocie and I'm a clinical research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK130,,0
+VK21-205,enrollment_arm_1,,,1,0,0,"2025-01-08 12:07","Hello, Rileymarie! My name is Jocie and I'm a clinical research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program. If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"I am interested!","Did a recruitment call on 1/9/2025, but the participant has some concerns around the class date for service dog group because she is in grad school. Talked to the study team about options and tried to call participant on 1/10/2025 to relay the information, but they did not answer. Will attempt to text them or reach out another day via phone call",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Participant will not be able to participate because they are in graduate school and do not graduate until 2026, and both service dog classes available this year would be in the middle of a semester (April and October). Participant said they are happy to be contacted for future studies.",0
+VK22-207,enrollment_arm_1,,,1,1,1,"2025-01-17 13:21","Hello Gage,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-01-22 12:03","Hello, Gage! My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study! I am just following up to see if you are interested in participating in our study. If so, please let us know when would be a good day and time for a quick chat over the phone. Thank you!","Hello, Gage! This is Jocie from the SERVES Study. I'm just checking in to see if you had any questions about our study or if you're still interested in participating. Thank you!",0,0,1,"I'm good for now but good luck with the study",,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,0,1,,"Participant said they are not interested at this time. JS thanked them and let them know they can reach out to us if they would like to participate at a later time or if they have any questions.",0
+VK22-208,enrollment_arm_1,,,1,0,0,"2025-03-24 11:14","Hello Nicholas,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are still interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,0,0,,,,,0
+VK22-209,enrollment_arm_1,,,1,0,0,"2025-01-17 13:26","Hello Anthony,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,1,0,0,"Good afternoon.. I am interested in the program.","Sent a Welcome Packet via email and scheduled a recruitment call for Tues, 1/21, at 10am MST",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK132,,0
+VK22-210,enrollment_arm_1,,,1,1,0,"2025-01-17 13:28","Hello Michael,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!","2025-02-03 14:07","Hi, Michael! I'm following up on your email about being interested in participating in our study. Please let me know when would be a good day and time to chat on the phone so we can discuss the study in a bit more detail. Thank you!",,1,0,0,"Participant sent us an email on 1/27 saying
+""Hello,
+
+
+I have been accepted to the K9s for warriors program and am looking to participate in the Serves study. 
+Thank you ""
+","At the time of their email, we were not recruiting TX participants because there were no spot available. After receiving the green light from the team to recruit him anyway, JS gave him a call on 2/3/2025. Participant did not answer so JS left a voicemail and followed up with a text.",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK146,,0
+VK22-211,enrollment_arm_1,,,1,0,0,"2025-01-17 13:30","Hello Timothy,
+My name is Jocie and I'm a research coordinator from the University of Arizona. We are working with K9s for Warriors on the SERVES study!
+
+You are invited to participate in the SERvice dog and Veteran Experiences Study (SERVES) to learn about the experiences of Veterans involved in a Service Dog program.
+ 
+If this is something you are interested in, please feel free to call or text us at this number or email us at SERVES@arizona.edu. Thank you for your time and have a great day!",,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,VK135,,0
+YJ001,enrollment_arm_1,,,1,0,0,"2024-12-02 14:10",,,,,1,0,0,,"Scheduled a recruitment call for 10/2/24 at 1pm EST",,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,YJ002,,2
+ZB001_test,enrollment_arm_1,,,0,0,0,,,,,,0,0,0,,,,0,0,0,,,,,,,,,,0,,,,0,,,,0,,,,0,1,1,1,,ZB001_test,,2
